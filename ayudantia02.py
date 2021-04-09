@@ -30,3 +30,21 @@ precTest = (5 + 2 * 3) // 3
 # Asosiatividad
 
 asocTest = 3 // 7 % 3
+
+# Conversion de datos
+
+castTest = 555
+
+print(type(castTest))
+
+castTest = str(castTest)
+
+print(type(castTest))
+
+# Entrada de datos:
+
+inputTest = input("Ingresa un str")
+
+# cualquier cosa que no sea vacio será true
+inputTest2 = bool(input("Ahora ingresa un bool"))
+print(inputTest2)

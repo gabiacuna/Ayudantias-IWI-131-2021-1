@@ -1,27 +1,29 @@
-# Tip buena práctica: El importe de las librerias son lo primero que se debe escribir en su doc.
-import math
-from random import randint
+# Tipos de Datos
+intEx = int()
+intEx = 4324
 
-# Funciones incluidas python
+floatEx = float()
+floatEx = 3.14
 
-absTest = abs(32-940)
-print("abs(32-940).....", absTest)
+booleEx = bool()
+booleEx = True
 
-roundTest1 = round(0.26)
-roundTest2 = round(0.26, 1)
-print("round(0.26).....", roundTest1)
-print("round(0.26, 1).....", roundTest2)
+strEx = str()
+strEx = 'Miau'
+strEx = "Guau"
 
-typeTest = type(absTest)
-print("type(roundTest1).....", typeTest)
+# Tipos de Operadores
 
-# Funciones incluidas de librerias
+a = 5 + 6
+b = 2 - 7
+c = 654 / 342
+d = 100 // 78
+e = 3534 % 234
+f = 2**5
 
-mathTest = math.exp(3)
-print("math.exp(3).....", mathTest)
 
-randTest = randint(0, 5)
-print("randint(0, 5).....", randTest)
+#print (-a, -b)
+
 
 # Precedencia
 

@@ -12,7 +12,7 @@ print(lista2)
 print(lista3)
 print(lista4)
 
-rango = range(0,10,2)    #range(inicio, fin, salto) 
+rango = range(0,3,1)    #range(inicio, fin, salto) 
 print('\n', rango, ':\t', list(rango))
 
 print('\n~~~~\n')

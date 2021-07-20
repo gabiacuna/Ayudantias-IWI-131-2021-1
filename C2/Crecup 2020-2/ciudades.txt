@@ -1,0 +1,8 @@
+1977,Moscow,Russia,7828,Europe
+1973,Chicago,United States,7594,North America
+1979,New York,United States,15901,North America
+1834,New York,United States,341,North America
+2018,New York,United States,18713,North America
+1882,New York,United States,2556,North America
+1883,Chicago,United States,825,North America
+1752,Hangzhou,China,342,East Asia

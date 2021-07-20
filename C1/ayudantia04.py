@@ -16,7 +16,7 @@ b = '00000'
 print()
 
 while a != b:
-    a += '0'
+    a = input()
     print(a)
 
 print('b:',b)

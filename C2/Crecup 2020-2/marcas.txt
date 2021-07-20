@@ -1,0 +1,9 @@
+2016-01-01,Kellogg's,United States,11711,Fast-Moving Consumer Goods
+2016-05-01,Kellogg's,United States,11465,Fast-Moving Consumer Goods
+2017-01-01,LEGO,Denmark,7024,Fast-Moving Consumer Goods
+2007-03-01,Nokia,Finland,34070,Technology
+2016-02-01,LEGO,Denmark,6719,Fast-Moving Consumer Goods
+2012-12-01,Zara,Spain,10710,Apparel
+2016-06-01,LEGO,Denmark,6830,Fast-Moving Consumer Goods
+2016-12-01,LEGO,Denmark,6996,Fast-Moving Consumer Goods
+2016-02-01,Hyundai,South Korea,12601,Automotive
